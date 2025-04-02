@@ -75,7 +75,3 @@ This repository contains my solution for the **Kaggle Playground Series - Binary
 
 ---
 
-## Reproducibility
-1. Install requirements:
-```bash
-pip install catboost xgboost lightgbm scikit-learn shap
