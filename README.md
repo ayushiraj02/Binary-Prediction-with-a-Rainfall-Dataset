@@ -2,21 +2,8 @@
 
 This repository contains my solution for the **Kaggle Playground Series - Binary Prediction with a Rainfall Dataset** competition.
 
-## Link of Competition: https://www.kaggle.com/competitions/playground-series-s5e3
+### Link of Competition: https://www.kaggle.com/competitions/playground-series-s5e3
 
-
-
-
-
-### Score board
-
-
-
-![Image description](https://raw.githubusercontent.com/ayushiraj02/Binary-Prediction-with-a-Rainfall-Dataset/refs/heads/main/img.png)
-
-
-
-# Rainfall Prediction - Playground Series Season 5 Episode 3
 
 [![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle)](https://www.kaggle.com/competitions/playground-series-s5e3)
 ![Rank](https://img.shields.io/badge/Rank-520%2F4382-blue)
@@ -28,7 +15,7 @@ This repository contains my solution for the **Kaggle Playground Series - Binary
 **Final Rank:** 520/4382 participants  
 **Best Score:** 0.89823 AUC (Public LB)  
 
-[![Scoreboard](https://via.placeholder.com/600x200.png?text=Scoreboard+Screenshot)](img_url)
+![Image description](https://raw.githubusercontent.com/ayushiraj02/Binary-Prediction-with-a-Rainfall-Dataset/refs/heads/main/img.png)
 
 ---
 
